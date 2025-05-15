@@ -15,6 +15,8 @@
     "bootstrap": "^5.3.6",
     "element-plus": "^2.9.10",
     "front": "file:",
+    "gsap": "^3.13.0",
+    "leaflet": "^1.9.4",
     "pinia": "^3.0.1",
     "vue": "^3.5.13",
     "vue-router": "^4.5.0",
